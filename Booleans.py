@@ -8,6 +8,9 @@
    == is comparison, = is assignment.
    Boolean operators: and, or, not
 
+   Note: Since the and ; or operators always take two Boolean values they can
+   be considered binary operators.
+   
    Truth tables:
    Expression        Evaluates to...
 
@@ -46,7 +49,15 @@
 
 '''
    The code below has two blocks within it. One can recongise another block
-   simply by the fact that there is an identation.
+   simply by the fact that there is an identation. So, an increase in indentation
+   marks the start of a new block and end when the said block has no identation
+   at all. It is also possible to have blocks within blocks.
+
+   
+
+   The == operator (equal to) asks whether two values are the same as each other.
+   The = operator (assignment) puts the value on the right into the variable on
+   the left. This is exactly the same principle as in algebra.
    
 '''
 
@@ -81,4 +92,4 @@ name = input()
 if name != '':
     print('Thank you for entering a name.')
 else:
-    print('YOu did not enter a name.')
+    print('You did not enter a name.')

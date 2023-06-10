@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dad0167-4f7f-4bc6-bb4c-a785574f8c12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AutomateWithPython2.py" afterDir="false" />
-    </list>
+    <list default="true" id="0dad0167-4f7f-4bc6-bb4c-a785574f8c12" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1150" />
     <option name="y" value="148" />
     <option name="width" value="789" />
@@ -86,6 +84,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/README.md" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -115,7 +114,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="920" y="119" width="631" height="872" extended-state="1" />
+    <frame x="920" y="119" width="631" height="872" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
